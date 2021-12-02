@@ -1,7 +1,7 @@
 <h1 aling="center">
-   <img alt="dev.finances" title="dev.finance" src=".github/logo.svg" width="220px" />
+   <img alt="dev.finances" title="dev.finance" src=".github/logo.svg" />
 </h1>
- 
+  
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
